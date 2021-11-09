@@ -1,0 +1,3 @@
+/tmp/meow/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/meow/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/meow/src/cmake-build-debug/CMakeFiles/src.dir
